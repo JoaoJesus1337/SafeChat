@@ -1,0 +1,12 @@
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\obj\Debug\Ficha3-Cliente.csproj.AssemblyReference.cache
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\obj\Debug\Ficha3_Cliente.Form1.resources
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\obj\Debug\Ficha3_Cliente.Properties.Resources.resources
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\obj\Debug\Ficha3-Cliente.csproj.GenerateResource.cache
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\obj\Debug\Ficha3-Cliente.csproj.CoreCompileInputs.cache
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\bin\Debug\Ficha3-Cliente.exe.config
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\bin\Debug\Ficha3-Cliente.exe
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\bin\Debug\Ficha3-Cliente.pdb
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\obj\Debug\Ficha3-Cliente.csproj.CopyComplete
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\obj\Debug\Ficha3-Cliente.exe
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Cliente\obj\Debug\Ficha3-Cliente.pdb

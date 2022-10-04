@@ -1,0 +1,9 @@
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\bin\Debug\Ficha3-Server.exe.config
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\bin\Debug\Ficha3-Server.exe
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\bin\Debug\Ficha3-Server.pdb
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\bin\Debug\ProtocolSI.dll
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\obj\Debug\Ficha3-Server.csproj.AssemblyReference.cache
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\obj\Debug\Ficha3-Server.csproj.CoreCompileInputs.cache
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\obj\Debug\Ficha3-Server.csproj.CopyComplete
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\obj\Debug\Ficha3-Server.exe
+C:\Users\nunosimoes\Documents\2021_2022_TopSegurança\Ficha3_D\Ficha3\Ficha3-Server\obj\Debug\Ficha3-Server.pdb
