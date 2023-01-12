@@ -16,3 +16,12 @@ C:\Users\Jmpl\Desktop\ProjetoTS\Ficha3-Server\obj\Debug\PorjetoTS-Server.csproj.
 C:\Users\Jmpl\Desktop\ProjetoTS\Ficha3-Server\obj\Debug\PorjetoTS-Server.csproj.CopyComplete
 C:\Users\Jmpl\Desktop\ProjetoTS\Ficha3-Server\obj\Debug\Ficha3-Server.exe
 C:\Users\Jmpl\Desktop\ProjetoTS\Ficha3-Server\obj\Debug\Ficha3-Server.pdb
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\bin\Debug\Ficha3-Server.exe.config
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\bin\Debug\Ficha3-Server.exe
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\bin\Debug\Ficha3-Server.pdb
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\bin\Debug\ProtocolSI.dll
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\obj\Debug\PorjetoTS-Server.csproj.AssemblyReference.cache
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\obj\Debug\PorjetoTS-Server.csproj.CoreCompileInputs.cache
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\obj\Debug\PorjetoTS-Server.csproj.CopyComplete
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\obj\Debug\Ficha3-Server.exe
+C:\Users\barba\Desktop\GIT\SafeChat\SafeChat\Ficha3-Server\obj\Debug\Ficha3-Server.pdb
